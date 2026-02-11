@@ -8,7 +8,9 @@
 **Educational use only.** Redirecting traffic and spoofing domains is a serious offense outside of a controlled lab.
 
 ## 🎥 Video Demonstration
-[PASTE YOUR YOUTUBE/DRIVE LINK HERE]
+<a href="https://youtu.be/fZhr43xvuNA" target="_blank">
+ <img src="https://img.youtube.com/vi/fZhr43xvuNA/maxresdefault.jpg" alt="Ver Video" width="600" border="10" />
+</a>
 
 ---
 
@@ -20,8 +22,6 @@ This tool performs a **DNS Spoofing** attack. It sniffs network traffic for DNS 
 * **Attacker:** 20.24.20.2 (Running the Script + Apache Web Server).
 * **Victim:** Windows 10 (DNS pointing to the Attacker).
 * **Target Domain:** google.com
-
-![Topology Screenshot](img/topology.png)
 
 ## 3. Requirements & Usage
 ### Installation
